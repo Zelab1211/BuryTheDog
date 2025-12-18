@@ -7,11 +7,13 @@
   "symbol": "scene_underground",
   "x": 831,
   "y": 74,
-  "width": 32,
-  "height": 32,
-  "backgroundId": "f3102db4-2273-411d-b33f-4d6f65959c60",
+  "width": 20,
+  "height": 18,
+  "backgroundId": "1fe2fdff-04dc-4dd7-8ac3-401fe0856cab",
   "tilesetId": "",
-  "paletteIds": [],
+  "paletteIds": [
+    "dmg"
+  ],
   "spritePaletteIds": [],
   "autoFadeSpeed": 1,
   "script": [
@@ -69,5 +71,5 @@
   "playerHit1Script": [],
   "playerHit2Script": [],
   "playerHit3Script": [],
-  "collisions": "00c3+0f1a+006+0f!00b+0f2+007+0f2+002+0f!006+0f!00b+0f2+007+0f2+002+0f!006+0f!002+0f2+0014+0f!006+0f!002+0f2+0014+0f!006+0f!0018+0f!006+0f!0018+0f!006+0f!0018+0f!006+0f!00d+0f2+009+0f!006+0f!00d+0f2+009+0f!006+0f!004+0f2+0012+0f!006+0f!004+0f2+0012+0f!006+0f15+002+0f3+004+0f17+002+0f5+002+0f!001c+0f!002+0f!001c+0f!002+0f!00f+0f4+002+0f4+003+0f!002+0f!00d+0f6+002+0f4+003+0f!002+0f!00d+0f4+006+0f2+003+0f!002+0f!00d+0f4+006+0f2+00!0f3+002+0f!00d+0f4+006+0f2+00!0f3+002+0f!00f+0f2+006+0f2+003+0f!002+0f!00f+0f2+006+0f2+00!0f3+002+0f!00f+0f2+006+0f2+00!0f3+002+0f14+002+0f8+0015+0f!002+0f!008+"
+  "collisions": "00168+"
 }
