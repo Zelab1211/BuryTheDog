@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "19c847e5-b49d-4ea6-934a-54d2cf4e8f72",
+  "name": "花园 夜",
+  "symbol": "bg_1",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "filename": "花园 夜.png",
+  "tileColors": "",
+  "autoColor": false
+}

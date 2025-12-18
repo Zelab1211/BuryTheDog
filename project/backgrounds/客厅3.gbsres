@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "60d3167f-55ec-41a5-b437-e3e3da305c58",
+  "name": "客厅3",
+  "symbol": "bg_9",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "filename": "客厅3.png",
+  "tileColors": "",
+  "autoColor": false
+}

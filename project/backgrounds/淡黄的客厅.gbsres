@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "6900da08-1a32-4080-aa25-ac5ee7efbef0",
+  "name": "淡黄的客厅",
+  "symbol": "bg_6",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "filename": "淡黄的客厅.png",
+  "tileColors": "",
+  "autoColor": false
+}

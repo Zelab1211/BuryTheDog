@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "9d817766-c611-4006-86bc-a4ee257f2c79",
+  "name": "父母房间",
+  "symbol": "bg_14",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "filename": "父母房间.png",
+  "tileColors": "",
+  "autoColor": false
+}

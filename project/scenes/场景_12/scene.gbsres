@@ -1,0 +1,25 @@
+{
+  "_resourceType": "scene",
+  "id": "f295e82b-a7c7-418b-bf32-bba033a7a145",
+  "_index": 11,
+  "name": "场景 12",
+  "backgroundId": "3a6c2269-2d97-4b76-81d7-ac5d0682d3e2",
+  "tilesetId": "",
+  "width": 20,
+  "height": 18,
+  "type": "TOPDOWN",
+  "paletteIds": [
+    "default-ui"
+  ],
+  "spritePaletteIds": [],
+  "collisions": "00168+",
+  "autoFadeSpeed": 1,
+  "symbol": "scene_12",
+  "x": 624,
+  "y": 96,
+  "script": [],
+  "playerHit1Script": [],
+  "playerHit2Script": [],
+  "playerHit3Script": [],
+  "playerSpriteSheetId": "a9fa4e30-c0cb-4119-97a5-dffb62b62bb3"
+}

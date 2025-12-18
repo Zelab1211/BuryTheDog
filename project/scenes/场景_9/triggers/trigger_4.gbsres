@@ -1,0 +1,41 @@
+{
+  "_resourceType": "trigger",
+  "id": "61b9abb0-05f4-4c9a-a956-460713a62f8a",
+  "name": "",
+  "prefabId": "",
+  "x": 16,
+  "y": 1,
+  "symbol": "trigger_9",
+  "prefabScriptOverrides": {},
+  "width": 4,
+  "height": 5,
+  "script": [
+    {
+      "command": "EVENT_TEXT",
+      "args": {
+        "text": [
+          "I want \nrefrigerate\nmyself."
+        ],
+        "__section": "text",
+        "avatarId": "8c145587-00c8-4bfd-9a84-a8b70fd1c4d5",
+        "minHeight": 4,
+        "maxHeight": 7,
+        "textX": 1,
+        "textY": 1,
+        "textHeight": 5,
+        "position": "bottom",
+        "clearPrevious": true,
+        "showFrame": "true",
+        "speedIn": -1,
+        "speedOut": -1,
+        "closeWhen": "key",
+        "closeButton": "a",
+        "closeDelayTime": 0.5,
+        "closeDelayFrames": 30
+      },
+      "id": "440377cc-1352-44b9-bfb8-7840f2bca090"
+    }
+  ],
+  "leaveScript": [],
+  "_index": 3
+}

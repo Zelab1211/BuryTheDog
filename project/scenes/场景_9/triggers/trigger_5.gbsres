@@ -1,0 +1,41 @@
+{
+  "_resourceType": "trigger",
+  "id": "c471e2ac-dbe7-4648-aadf-b44e2f4d1ed2",
+  "name": "",
+  "prefabId": "",
+  "x": 0,
+  "y": 13,
+  "symbol": "trigger_10",
+  "prefabScriptOverrides": {},
+  "width": 4,
+  "height": 5,
+  "script": [
+    {
+      "command": "EVENT_TEXT",
+      "args": {
+        "text": [
+          "What is this?"
+        ],
+        "__section": "text",
+        "avatarId": "8c145587-00c8-4bfd-9a84-a8b70fd1c4d5",
+        "minHeight": 4,
+        "maxHeight": 7,
+        "textX": 1,
+        "textY": 1,
+        "textHeight": 5,
+        "position": "bottom",
+        "clearPrevious": true,
+        "showFrame": "true",
+        "speedIn": -1,
+        "speedOut": -1,
+        "closeWhen": "key",
+        "closeButton": "a",
+        "closeDelayTime": 0.5,
+        "closeDelayFrames": 30
+      },
+      "id": "0223bb45-bc3d-4211-ae82-8d2f4a9b952f"
+    }
+  ],
+  "leaveScript": [],
+  "_index": 4
+}

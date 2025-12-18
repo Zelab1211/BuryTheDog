@@ -1,0 +1,292 @@
+{
+  "_resourceType": "sprite",
+  "id": "7c8bf0da-71d7-4b44-90cc-4184a6487f6d",
+  "name": "小孩正面",
+  "symbol": "sprite_",
+  "numFrames": 1,
+  "filename": "小孩正面.png",
+  "checksum": "06bafb1960d8510531fe03adea929fb83c7bdedd",
+  "width": 16,
+  "height": 16,
+  "states": [
+    {
+      "id": "4e3465cf-69fb-47ed-8270-f193765a29f2",
+      "name": "",
+      "animationType": "fixed",
+      "flipLeft": false,
+      "animations": [
+        {
+          "id": "a5d63f51-9cde-4277-b172-c270e76d1378",
+          "frames": [
+            {
+              "id": "d88b4b79-3b2e-489f-a19c-34b37decae89",
+              "tiles": [
+                {
+                  "id": "351692dc-108b-485b-afa0-86ef1a4d03c0",
+                  "x": 0,
+                  "y": 0,
+                  "sliceX": 0,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                },
+                {
+                  "id": "f6c8274b-5b8d-4a20-8460-35ae9045e6b1",
+                  "x": 8,
+                  "y": 0,
+                  "sliceX": 8,
+                  "sliceY": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "palette": 0,
+                  "paletteIndex": 0,
+                  "objPalette": "OBP0",
+                  "priority": false
+                }
+              ]
+            },
+            {
+              "id": "8c885c7d-5500-4527-b80f-2c30c12b2409",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "ba141403-044e-4506-988d-911705839dc3",
+          "frames": [
+            {
+              "id": "bd31f238-facc-4210-ad22-2d80c8f8a67f",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "7f410f01-ff94-4db9-b256-ab1accd8e8e2",
+          "frames": [
+            {
+              "id": "3744959c-9bed-46ec-90f5-f1a769fbc1fb",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "142100f7-e196-49f7-a8b1-ac893d7b0289",
+          "frames": [
+            {
+              "id": "034c1af8-27c7-459c-9eb4-6798f98f3ff7",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "2670b481-c7f6-42b6-98eb-7374f5d55cff",
+          "frames": [
+            {
+              "id": "a047823d-b440-4d2d-b284-60134266b97d",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "8bfa62c3-f863-4f9a-8313-8529991bfef6",
+          "frames": [
+            {
+              "id": "8df5798a-1f18-4c92-915a-6c00f55777c5",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "31c7ff01-780e-4231-9ff8-21418c63ac65",
+          "frames": [
+            {
+              "id": "7e6a9e02-7d12-428d-8983-1cbd3f5151ba",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "d9220ad5-3f8d-4cc6-97ba-3e741d7f7310",
+          "frames": [
+            {
+              "id": "d694e92a-a942-4dde-88f0-3b148a9059fc",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ef1ad17c-b81c-4cd3-8a01-8f52134724f0",
+      "name": "背面",
+      "animations": [
+        {
+          "id": "a3f41ca3-3007-43ed-ac63-39d1c46df463",
+          "frames": [
+            {
+              "id": "20ca1132-60df-4e65-a516-df52eaa52a24",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "bc5380ba-4e36-4ccd-907d-a2108d63ec8b",
+          "frames": [
+            {
+              "id": "7168ab46-1b52-4263-adb5-010c74183d8a",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "6ff8afd9-3938-4a12-acf8-4162baf972b2",
+          "frames": [
+            {
+              "id": "12912d72-ee9f-4861-a8e9-66927d0f7c2d",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "e256f7e4-f8db-4871-97c2-a562d684ad8e",
+          "frames": [
+            {
+              "id": "8ff274ad-4056-49c3-b201-1fb1f504ecab",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "940b6437-391b-489e-a6d9-4f07fe17d21e",
+          "frames": [
+            {
+              "id": "113c0b82-30d8-42d3-959c-091136c5c9a0",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "3a8ce86d-92c6-4c83-90a9-ed4e4a73e828",
+          "frames": [
+            {
+              "id": "48a472e5-1b84-4fa3-897a-3b1562a8e222",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "b186ac9e-d155-49c5-a0a6-b1072e54c875",
+          "frames": [
+            {
+              "id": "c99e0ae0-1dd5-4c9a-8e82-e903c5169145",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "485b5def-841b-4d77-8340-1b3723c7d2c5",
+          "frames": [
+            {
+              "id": "9dfa472a-47bd-4a71-bef6-f6ecb407718f",
+              "tiles": []
+            }
+          ]
+        }
+      ],
+      "animationType": "fixed",
+      "flipLeft": true
+    },
+    {
+      "id": "3f6d1985-736f-4e2a-b11f-35bd38825345",
+      "name": "新建状态",
+      "animations": [
+        {
+          "id": "312e2a7c-a2f3-499c-93a1-e4292c7c9b12",
+          "frames": [
+            {
+              "id": "be53a4cf-446a-43a4-a143-05922b2a91b3",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "a451b73e-8a83-43d2-8eb5-180cf194639e",
+          "frames": [
+            {
+              "id": "1eff3c22-53cd-430d-8bf3-ad4c22ec5eda",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "7e6de11f-e25f-4759-8bd9-298445fd3d02",
+          "frames": [
+            {
+              "id": "976c2f7f-17cb-413b-9c8b-7bdcedc7857b",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "d884c06b-747b-4fff-97f2-a20eb69dd9a0",
+          "frames": [
+            {
+              "id": "dd532b81-63cb-4d80-9a1b-9febdf9ecdc4",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "b8a15908-c318-4960-a0c6-72d7df215afb",
+          "frames": [
+            {
+              "id": "7c49e133-6a8e-4c29-ad1c-7619dc10921a",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "35412f0f-48c6-420f-948f-efecec97b01d",
+          "frames": [
+            {
+              "id": "8a507461-4a15-448f-88ee-dbdb8c817e0b",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "0344bf08-597a-4331-a66a-608c2f7a5cc4",
+          "frames": [
+            {
+              "id": "c3f636ce-55d1-4a07-8b66-89c1c4575349",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "fdf7ab12-8008-48a0-baa7-4a5aebb926ed",
+          "frames": [
+            {
+              "id": "d466930c-81ef-4484-9cf3-a7777e14f762",
+              "tiles": []
+            }
+          ]
+        }
+      ],
+      "animationType": "fixed",
+      "flipLeft": true
+    }
+  ],
+  "numTiles": 2,
+  "canvasWidth": 16,
+  "canvasHeight": 16,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15
+}

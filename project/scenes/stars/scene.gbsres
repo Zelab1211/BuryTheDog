@@ -1,0 +1,74 @@
+{
+  "_resourceType": "scene",
+  "id": "8a52b387-2a88-4741-8d4e-ca56acea4672",
+  "_index": 5,
+  "type": "TOPDOWN",
+  "name": "Stars",
+  "symbol": "scene_stars",
+  "x": 808,
+  "y": 464,
+  "width": 20,
+  "height": 18,
+  "backgroundId": "4fc8937b-209c-4ea8-9a89-3b70c4e8261e",
+  "tilesetId": "",
+  "paletteIds": [],
+  "spritePaletteIds": [],
+  "autoFadeSpeed": 1,
+  "script": [
+    {
+      "command": "EVENT_ACTOR_HIDE",
+      "args": {
+        "actorId": "$self$"
+      },
+      "id": "67e93be1-ab8b-493d-8005-1fb1eaad4d1b"
+    },
+    {
+      "command": "EVENT_TEXT",
+      "args": {
+        "text": [
+          "Chessburg",
+          "Pick my ball"
+        ],
+        "__section": "text",
+        "avatarId": "8c145587-00c8-4bfd-9a84-a8b70fd1c4d5",
+        "minHeight": 4,
+        "maxHeight": 7,
+        "textX": 1,
+        "textY": 1,
+        "textHeight": 5,
+        "position": "bottom",
+        "clearPrevious": true,
+        "showFrame": "true",
+        "speedIn": -1,
+        "speedOut": -1,
+        "closeWhen": "key",
+        "closeButton": "a",
+        "closeDelayTime": 0.5,
+        "closeDelayFrames": 30
+      },
+      "id": "74822ff6-c28d-4f89-8a0d-5118713e1360"
+    },
+    {
+      "command": "EVENT_SWITCH_SCENE",
+      "args": {
+        "sceneId": "5b60bfe6-e2ef-489d-a067-2301bad4fd51",
+        "x": {
+          "type": "number",
+          "value": 0
+        },
+        "y": {
+          "type": "number",
+          "value": 0
+        },
+        "direction": "",
+        "fadeSpeed": 1
+      },
+      "id": "6cd4de35-f928-40ce-b71e-87973121e3d0"
+    }
+  ],
+  "playerHit1Script": [],
+  "playerHit2Script": [],
+  "playerHit3Script": [],
+  "collisions": "00168+",
+  "autoFadeEventCollapse": false
+}

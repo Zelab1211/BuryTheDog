@@ -1,0 +1,23 @@
+{
+  "_resourceType": "scene",
+  "id": "34b3d979-5d29-4ba2-8aeb-55e352fcc1aa",
+  "_index": 8,
+  "name": "场景 9",
+  "backgroundId": "88f2d20d-a725-481f-a2c6-61f032b78301",
+  "tilesetId": "",
+  "width": 20,
+  "height": 18,
+  "type": "POINTNCLICK",
+  "paletteIds": [],
+  "spritePaletteIds": [],
+  "collisions": "00168+",
+  "autoFadeSpeed": 1,
+  "symbol": "scene_9",
+  "x": 568,
+  "y": 464,
+  "script": [],
+  "playerHit1Script": [],
+  "playerHit2Script": [],
+  "playerHit3Script": [],
+  "playerSpriteSheetId": "92e5d90a-1ef8-49c6-95af-3869a98e28b0"
+}

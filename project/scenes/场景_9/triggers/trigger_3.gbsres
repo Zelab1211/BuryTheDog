@@ -1,0 +1,41 @@
+{
+  "_resourceType": "trigger",
+  "id": "12beaeba-db60-4216-8f8c-c70e32dfde06",
+  "name": "",
+  "prefabId": "",
+  "x": 12,
+  "y": 1,
+  "symbol": "trigger_8",
+  "prefabScriptOverrides": {},
+  "width": 4,
+  "height": 3,
+  "script": [
+    {
+      "command": "EVENT_TEXT",
+      "args": {
+        "text": [
+          "Wash your hands \nbefore having \nfoods."
+        ],
+        "__section": "text",
+        "avatarId": "8c145587-00c8-4bfd-9a84-a8b70fd1c4d5",
+        "minHeight": 4,
+        "maxHeight": 7,
+        "textX": 1,
+        "textY": 1,
+        "textHeight": 5,
+        "position": "bottom",
+        "clearPrevious": true,
+        "showFrame": "true",
+        "speedIn": -1,
+        "speedOut": -1,
+        "closeWhen": "key",
+        "closeButton": "a",
+        "closeDelayTime": 0.5,
+        "closeDelayFrames": 30
+      },
+      "id": "2f4ef994-245e-4eb4-89d8-f69883c135e1"
+    }
+  ],
+  "leaveScript": [],
+  "_index": 2
+}

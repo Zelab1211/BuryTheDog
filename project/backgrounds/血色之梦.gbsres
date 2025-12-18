@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "630dbf60-f126-43b7-9c76-f75ffb2b52c3",
+  "name": "血色之梦",
+  "symbol": "bg_13",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "filename": "血色之梦.png",
+  "tileColors": "",
+  "autoColor": false
+}

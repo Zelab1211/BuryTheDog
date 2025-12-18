@@ -1,0 +1,123 @@
+{
+  "_resourceType": "settings",
+  "startSceneId": "f295e82b-a7c7-418b-bf32-bba033a7a145",
+  "startX": 5,
+  "startY": 8,
+  "startMoveSpeed": 1,
+  "startAnimSpeed": 15,
+  "startDirection": "up",
+  "showCollisionExtraTiles": false,
+  "sgbEnabled": true,
+  "customHead": "",
+  "defaultBackgroundPaletteIds": [
+    "default-bg-1",
+    "default-bg-2",
+    "default-bg-3",
+    "default-bg-4",
+    "993e91aa-4543-44a0-9108-ea1d28e236cf",
+    "default-bg-6",
+    "dmg",
+    "default-ui"
+  ],
+  "defaultSpritePaletteIds": [
+    "dmg",
+    "default-bg-5",
+    "default-bg-2",
+    "default-bg-1",
+    "default-bg-4",
+    "default-bg-6",
+    "993e91aa-4543-44a0-9108-ea1d28e236cf",
+    "default-sprite"
+  ],
+  "defaultSpritePaletteId": "default-sprite",
+  "defaultUIPaletteId": "default-ui",
+  "playerPaletteId": "",
+  "defaultFontId": "26fa15df-3318-44ad-8bfd-feff8ba7991d",
+  "defaultCharacterEncoding": "",
+  "defaultPlayerSprites": {
+    "TOPDOWN": "4bf07feb-4964-4835-8c9f-1a731316ee4d",
+    "PLATFORM": "1e27bb8e-c805-435a-8b87-05b4f50da4f0",
+    "ADVENTURE": "ac1e8ef4-ffe6-47cd-b16f-9af5da77ec26",
+    "SHMUP": "ac1e8ef4-ffe6-47cd-b16f-9af5da77ec26",
+    "POINTNCLICK": "ac1e8ef4-ffe6-47cd-b16f-9af5da77ec26",
+    "LOGO": "ac1e8ef4-ffe6-47cd-b16f-9af5da77ec26"
+  },
+  "musicDriver": "huge",
+  "cartType": "mbc5",
+  "batterylessEnabled": false,
+  "customColorsWhite": "E8F8E0",
+  "customColorsLight": "B0F088",
+  "customColorsDark": "509878",
+  "customColorsBlack": "202850",
+  "customControlsUp": [
+    "ArrowUp",
+    "w"
+  ],
+  "customControlsDown": [
+    "ArrowDown",
+    "s"
+  ],
+  "customControlsLeft": [
+    "ArrowLeft",
+    "a"
+  ],
+  "customControlsRight": [
+    "ArrowRight",
+    "d"
+  ],
+  "customControlsA": [
+    "Alt",
+    "z",
+    "j"
+  ],
+  "customControlsB": [
+    "Control",
+    "k",
+    "x"
+  ],
+  "customControlsStart": [
+    "Enter"
+  ],
+  "customControlsSelect": [
+    "Shift"
+  ],
+  "colorMode": "mixed",
+  "generateDebugFilesEnabled": false,
+  "compilerPreset": 3000,
+  "scriptEventPresets": {
+    "EVENT_TEXT": {
+      "55b9e9b4-66da-4e0c-ae90-bd9b89e4a77d": {
+        "id": "55b9e9b4-66da-4e0c-ae90-bd9b89e4a77d",
+        "name": "Preset 1",
+        "groups": [
+          "layout",
+          "behaviour",
+          "avatar",
+          "text"
+        ],
+        "args": {
+          "text": [
+            "Fuck you!",
+            "how dare you click \nme"
+          ],
+          "avatarId": "",
+          "position": "bottom",
+          "minHeight": 4,
+          "maxHeight": 7,
+          "textX": 1,
+          "textY": 1,
+          "textHeight": 5,
+          "clearPrevious": true,
+          "showFrame": "true",
+          "speedIn": -1,
+          "speedOut": -1,
+          "closeWhen": "key",
+          "closeButton": "a",
+          "closeDelayTime": 0.5,
+          "closeDelayFrames": 30
+        }
+      }
+    }
+  },
+  "scriptEventDefaultPresets": {}
+}

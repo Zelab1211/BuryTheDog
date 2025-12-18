@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "a56bf3a5-6fbf-45d3-80e2-34ce0f4e93ac",
+  "name": "花园without grave",
+  "symbol": "bg_without_grave",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "filename": "花园without grave.png",
+  "tileColors": "",
+  "autoColor": false
+}

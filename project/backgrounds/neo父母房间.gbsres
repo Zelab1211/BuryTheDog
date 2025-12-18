@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "3a6c2269-2d97-4b76-81d7-ac5d0682d3e2",
+  "name": "Neo父母房间",
+  "symbol": "bg_neo_",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "filename": "Neo父母房间.png",
+  "tileColors": "",
+  "autoColor": false
+}

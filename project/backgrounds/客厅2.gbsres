@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "27fa05ea-2a54-4db1-a64a-c1bac8343332",
+  "name": "客厅2",
+  "symbol": "bg_7",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "filename": "客厅2.png",
+  "tileColors": "",
+  "autoColor": false
+}

@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "4fc8937b-209c-4ea8-9a89-3b70c4e8261e",
+  "name": "夕阳",
+  "symbol": "bg_11",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "filename": "夕阳.png",
+  "tileColors": "",
+  "autoColor": false
+}

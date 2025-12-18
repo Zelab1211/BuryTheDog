@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "b493f5af-cf9d-4985-b7f4-641387256705",
+  "name": "花园4",
+  "symbol": "bg_4",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "filename": "花园4.png",
+  "tileColors": "",
+  "autoColor": false
+}

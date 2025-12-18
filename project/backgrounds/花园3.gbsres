@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "2b5db72a-3cf0-4b6c-b337-f88f18588012",
+  "name": "花园3",
+  "symbol": "bg_3",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "filename": "花园3.png",
+  "tileColors": "",
+  "autoColor": false
+}

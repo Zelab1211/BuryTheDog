@@ -1,0 +1,42 @@
+{
+  "_resourceType": "trigger",
+  "id": "68834146-5640-4e14-87c0-8b4dc28a8381",
+  "name": "",
+  "prefabId": "",
+  "x": 0,
+  "y": 3,
+  "symbol": "trigger_6",
+  "prefabScriptOverrides": {},
+  "width": 2,
+  "height": 2,
+  "script": [
+    {
+      "command": "EVENT_TEXT",
+      "args": {
+        "__presetId": "55b9e9b4-66da-4e0c-ae90-bd9b89e4a77d",
+        "text": [
+          "how dare you \nclick me."
+        ],
+        "__section": "text",
+        "avatarId": "17219846-cda9-4e84-bdfa-c3ff105d42cc",
+        "minHeight": 1,
+        "maxHeight": 8,
+        "textX": 1,
+        "textY": 1,
+        "textHeight": 10,
+        "position": "bottom",
+        "clearPrevious": true,
+        "showFrame": "true",
+        "speedIn": -1,
+        "speedOut": -1,
+        "closeWhen": "key",
+        "closeButton": "a",
+        "closeDelayTime": 0.5,
+        "closeDelayFrames": 30
+      },
+      "id": "aab29a7f-aa18-446a-9397-f76a3db1dab5"
+    }
+  ],
+  "leaveScript": [],
+  "_index": 0
+}
