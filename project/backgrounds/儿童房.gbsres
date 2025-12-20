@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "6e39d805-8a0d-455b-856d-391cef375f4c",
+  "name": "儿童房",
+  "symbol": "bg_22",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "filename": "儿童房.png",
+  "tileColors": "",
+  "autoColor": false
+}

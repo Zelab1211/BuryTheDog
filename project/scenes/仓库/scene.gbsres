@@ -1,0 +1,27 @@
+{
+  "_resourceType": "scene",
+  "id": "2ec37dfd-1b15-4174-aee1-1243f69cf45c",
+  "_index": 12,
+  "name": "仓库",
+  "backgroundId": "e0bec985-308b-467b-9613-7fe498e3f093",
+  "tilesetId": "",
+  "width": 30,
+  "height": 18,
+  "type": "TOPDOWN",
+  "paletteIds": [
+    "dmg"
+  ],
+  "spritePaletteIds": [
+    ""
+  ],
+  "collisions": "005b+0fb+009+0f8+002+0f!0013+0f!006+0f4+0013+0f!006+0f2+00e+0f!006+0f!0016+0f3+004+0f!0010+0f4+004+0f!004+0f!0010+0f4+004+0f6+0010+0f2+00a+0f2+0010+0f2+00a+0f2+008+0f4+0018+0f2+001c+0f!009+0f4+002+0ff+005b+",
+  "autoFadeSpeed": 1,
+  "symbol": "scene_13",
+  "x": 608,
+  "y": 224,
+  "script": [],
+  "playerHit1Script": [],
+  "playerHit2Script": [],
+  "playerHit3Script": [],
+  "playerSpriteSheetId": "a9fa4e30-c0cb-4119-97a5-dffb62b62bb3"
+}

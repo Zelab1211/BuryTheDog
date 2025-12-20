@@ -1,0 +1,22 @@
+{
+  "_resourceType": "scene",
+  "id": "8ac6cf64-3c74-47e1-8ac2-d76c8ba48740",
+  "_index": 15,
+  "name": "场景 16",
+  "backgroundId": "dc67dfd6-d9e0-40c2-92f1-bac7311d69ca",
+  "tilesetId": "",
+  "width": 20,
+  "height": 18,
+  "type": "TOPDOWN",
+  "paletteIds": [],
+  "spritePaletteIds": [],
+  "collisions": "00168+",
+  "autoFadeSpeed": 1,
+  "symbol": "scene_16",
+  "x": 1348,
+  "y": 588,
+  "script": [],
+  "playerHit1Script": [],
+  "playerHit2Script": [],
+  "playerHit3Script": []
+}

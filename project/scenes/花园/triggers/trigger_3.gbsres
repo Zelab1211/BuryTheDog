@@ -1,0 +1,53 @@
+{
+  "_resourceType": "trigger",
+  "id": "5e0ce9fe-79d9-40dd-99df-7d0301bf2f7f",
+  "name": "",
+  "prefabId": "",
+  "x": 5,
+  "y": 7,
+  "symbol": "trigger_19",
+  "prefabScriptOverrides": {},
+  "width": 3,
+  "height": 3,
+  "script": [
+    {
+      "command": "EVENT_ACTOR_SET_STATE",
+      "args": {
+        "actorId": "$self$",
+        "spriteStateId": "",
+        "loopAnim": false
+      },
+      "id": "eef3aac4-7746-4593-9621-226d0dcffb3a"
+    },
+    {
+      "command": "EVENT_TEXT",
+      "args": {
+        "text": [
+          "The grave which\nbelong to \nChessburg.",
+          "[Chessburg.]",
+          "No response."
+        ],
+        "__section": "text",
+        "avatarId": "8c145587-00c8-4bfd-9a84-a8b70fd1c4d5",
+        "minHeight": 4,
+        "maxHeight": 7,
+        "textX": 1,
+        "textY": 1,
+        "textHeight": 5,
+        "position": "bottom",
+        "clearPrevious": true,
+        "showFrame": "true",
+        "speedIn": -1,
+        "speedOut": -1,
+        "closeWhen": "key",
+        "closeButton": "a",
+        "closeDelayTime": 0.5,
+        "closeDelayFrames": 30,
+        "__collapse": false
+      },
+      "id": "4817b626-7e6e-40a0-ab79-9ecf676495d7"
+    }
+  ],
+  "leaveScript": [],
+  "_index": 2
+}

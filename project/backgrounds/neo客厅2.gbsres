@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "03b459f8-a6c4-4b07-97c1-bf727e47c0f1",
+  "name": "Neo客厅2",
+  "symbol": "bg_neo_2",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "filename": "Neo客厅2.png",
+  "tileColors": "",
+  "autoColor": false
+}

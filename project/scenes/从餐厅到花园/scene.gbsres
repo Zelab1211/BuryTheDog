@@ -1,0 +1,27 @@
+{
+  "_resourceType": "scene",
+  "id": "62f558d5-c925-4694-9889-f00c7015a04f",
+  "_index": 13,
+  "name": "从餐厅到花园",
+  "backgroundId": "7f90ece2-1b2d-4472-9bfb-a5e50f4a5965",
+  "tilesetId": "",
+  "width": 20,
+  "height": 18,
+  "type": "TOPDOWN",
+  "paletteIds": [
+    "dmg"
+  ],
+  "spritePaletteIds": [
+    "993e91aa-4543-44a0-9108-ea1d28e236cf"
+  ],
+  "collisions": "009+0f2+005+0f4+008+0f4+003+0f5+008+0f4+003+0f5+008+0f4+002+0f6+009+0f2+003+0f6+00e+0f6+00e+0f6+00f+0f5+00f+0f!0013+0f!009+0f9+00!0f!0013+0f!0013+0f!0013+0f!0013+0f!0013+0f!0013+0f5+0014+",
+  "autoFadeSpeed": 1,
+  "symbol": "scene_14",
+  "x": 416,
+  "y": 424,
+  "script": [],
+  "playerHit1Script": [],
+  "playerHit2Script": [],
+  "playerHit3Script": [],
+  "playerSpriteSheetId": "a9fa4e30-c0cb-4119-97a5-dffb62b62bb3"
+}

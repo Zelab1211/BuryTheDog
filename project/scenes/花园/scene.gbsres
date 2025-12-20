@@ -1,0 +1,40 @@
+{
+  "_resourceType": "scene",
+  "id": "94c18861-b352-4f49-a64d-52f2e3415077",
+  "_index": 4,
+  "type": "TOPDOWN",
+  "name": "花园",
+  "symbol": "scene_outside",
+  "x": 416,
+  "y": 232,
+  "width": 20,
+  "height": 18,
+  "backgroundId": "b493f5af-cf9d-4985-b7f4-641387256705",
+  "tilesetId": "",
+  "paletteIds": [
+    "dmg",
+    "",
+    "",
+    "default-bg-1",
+    "993e91aa-4543-44a0-9108-ea1d28e236cf",
+    "dmg"
+  ],
+  "spritePaletteIds": [
+    "993e91aa-4543-44a0-9108-ea1d28e236cf"
+  ],
+  "autoFadeSpeed": 1,
+  "playerSpriteSheetId": "a9fa4e30-c0cb-4119-97a5-dffb62b62bb3",
+  "script": [
+    {
+      "command": "EVENT_CALL_CUSTOM_EVENT",
+      "args": {
+        "customEventId": "872f61cf-bd62-4e58-92ee-a751e7335fe9"
+      },
+      "id": "5177b82a-d7ca-48d6-b88c-1567971e7ac7"
+    }
+  ],
+  "playerHit1Script": [],
+  "playerHit2Script": [],
+  "playerHit3Script": [],
+  "collisions": "009+0f!0013+0f!0013+0f!005+0f4+00a+0f!004+0f!003+0f!00a+0f!004+0f!00!0f!00!0f!00!0f9+005+0f!003+0f!0010+0f4+007+0f!0013+0f!0033+0f2+00b+0f5+00!0f!00d+0f!003+0f!00!0f!002+0f3+008+0f!003+0f!00!0f!005+0f!007+0f!003+0f!00!0f3+003+0f4+004+0f5+00b+0f!007+0f!002+0f!008+0f!007+0f!004+"
+}

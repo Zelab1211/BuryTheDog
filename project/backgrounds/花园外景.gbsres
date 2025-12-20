@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "4957e5c1-61ca-4f01-89fc-d247fa0b3752",
+  "name": "花园外景",
+  "symbol": "bg_25",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "filename": "花园外景.png",
+  "tileColors": "",
+  "autoColor": false
+}

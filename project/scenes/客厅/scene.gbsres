@@ -1,0 +1,35 @@
+{
+  "_resourceType": "scene",
+  "id": "5e64882f-8ce6-423e-b582-70fdb2142ff6",
+  "_index": 0,
+  "type": "TOPDOWN",
+  "name": "客厅",
+  "symbol": "scene_cave",
+  "x": 936,
+  "y": 272,
+  "width": 20,
+  "height": 18,
+  "backgroundId": "cb889589-82cb-4da1-8485-8720b0548eec",
+  "tilesetId": "",
+  "paletteIds": [
+    "dmg"
+  ],
+  "spritePaletteIds": [
+    "993e91aa-4543-44a0-9108-ea1d28e236cf"
+  ],
+  "autoFadeSpeed": 1,
+  "script": [
+    {
+      "command": "EVENT_CALL_CUSTOM_EVENT",
+      "args": {
+        "customEventId": "872f61cf-bd62-4e58-92ee-a751e7335fe9"
+      },
+      "id": "73600b38-1b67-4b91-920e-b97faa41ed65"
+    }
+  ],
+  "playerHit1Script": [],
+  "playerHit2Script": [],
+  "playerHit3Script": [],
+  "collisions": "007+0f!003+0f!00f+0f!003+0f!008+0f2+004+0f2+003+0f2+008+0f!004+0f!005+0f!008+0f6+005+0f2+0012+0f8+002f+0f4+00f+0f6+002+0f!00b+0f6+002+0f!00b+0f6+002+0f!00b+0f6+00e+0f!00!0f4+0010+0f3+009+0f4+004+0f3+009+0f!002+0f!004+0fd+002+0f!004+0f!00b+",
+  "playerSpriteSheetId": "a9fa4e30-c0cb-4119-97a5-dffb62b62bb3"
+}

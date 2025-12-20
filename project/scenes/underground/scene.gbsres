@@ -5,11 +5,11 @@
   "type": "TOPDOWN",
   "name": "Underground",
   "symbol": "scene_underground",
-  "x": 831,
-  "y": 74,
+  "x": 1176,
+  "y": 320,
   "width": 20,
   "height": 18,
-  "backgroundId": "1fe2fdff-04dc-4dd7-8ac3-401fe0856cab",
+  "backgroundId": "b8a724f4-bb55-485c-b1e0-6b49c2f03756",
   "tilesetId": "",
   "paletteIds": [
     "dmg"

@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "7940a493-f163-4522-8bcd-e935b19b8c7d",
+  "name": "餐厅到花园的走廊",
+  "symbol": "bg_20",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "filename": "餐厅到花园的走廊.png",
+  "tileColors": "",
+  "autoColor": false
+}

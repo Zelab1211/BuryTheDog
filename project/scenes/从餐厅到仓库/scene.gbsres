@@ -1,0 +1,27 @@
+{
+  "_resourceType": "scene",
+  "id": "7210931b-020c-48bf-b5a9-82fe4ec240d0",
+  "_index": 14,
+  "name": "从餐厅到仓库",
+  "backgroundId": "6afa3c5f-9978-40f6-a50d-5bacb5e082b7",
+  "tilesetId": "",
+  "width": 20,
+  "height": 18,
+  "type": "TOPDOWN",
+  "paletteIds": [
+    "dmg"
+  ],
+  "spritePaletteIds": [
+    "993e91aa-4543-44a0-9108-ea1d28e236cf"
+  ],
+  "collisions": "0029+0ff+0013+0f!0013+0f!0013+0f!0013+0f!0013+0f!005+0f9+005+0f!00d+0f!005+0f!00d+0f!005+0f!00d+0f!005+0f!00d+0f!005+0f!00d+0f!005+0f!00d+0f!005+0f!00d+0f!005+0f!00d+0f!005+0f!0018+",
+  "autoFadeSpeed": 1,
+  "symbol": "scene_15",
+  "x": 904,
+  "y": 80,
+  "script": [],
+  "playerHit1Script": [],
+  "playerHit2Script": [],
+  "playerHit3Script": [],
+  "playerSpriteSheetId": "a9fa4e30-c0cb-4119-97a5-dffb62b62bb3"
+}
